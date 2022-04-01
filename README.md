@@ -8,6 +8,7 @@
 ![](https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white) 
 ![](https://img.shields.io/badge/Typescript-blue?style=for-the-badge&logo=typescript&logoColor=white) 
 ![](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js&logoColor=white)
+![](https://img.shields.io/badge/Vue.js-blue?style=for-the-badge&logo=vue.js&logoColor=white)
 
 ## OS & IDE
 ![](https://img.shields.io/badge/Windows-blue?style=for-the-badge&logo=windows&logoColor=white)
