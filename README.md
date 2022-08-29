@@ -29,4 +29,4 @@
 ![](https://img.shields.io/badge/kotlin-orange?style=for-the-badge&logo=kotlin&logoColor=white)
 ![](https://img.shields.io/badge/k8s-blue?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![](https://img.shields.io/badge/gitops-green?style=for-the-badge&logo=git&logoColor=white)
-![](https://img.shields.io/badge/nextjs-purple?style=for-the-badge&logo=nextjs&logoColor=white)
+![](https://img.shields.io/badge/nextjs-purple?style=for-the-badge&logo=next.js&logoColor=white)
