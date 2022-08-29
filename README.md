@@ -9,6 +9,7 @@
 ![](https://img.shields.io/badge/Typescript-blue?style=for-the-badge&logo=typescript&logoColor=white) 
 ![](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js&logoColor=white)
 ![](https://img.shields.io/badge/Vue.js-blue?style=for-the-badge&logo=vue.js&logoColor=white)
+![](https://img.shields.io/badge/react-purple?style=for-the-badge&logo=react&logoColor=white)
 
 ## OS & IDE
 ![](https://img.shields.io/badge/Windows-blue?style=for-the-badge&logo=windows&logoColor=white)
@@ -28,4 +29,4 @@
 ![](https://img.shields.io/badge/kotlin-orange?style=for-the-badge&logo=kotlin&logoColor=white)
 ![](https://img.shields.io/badge/k8s-blue?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![](https://img.shields.io/badge/gitops-green?style=for-the-badge&logo=git&logoColor=white)
-![](https://img.shields.io/badge/react-purple?style=for-the-badge&logo=react&logoColor=white)
+![](https://img.shields.io/badge/nextjs-purple?style=for-the-badge&logo=nextjs&logoColor=white)
