@@ -9,8 +9,9 @@
 ![](https://img.shields.io/badge/Typescript-blue?style=for-the-badge&logo=typescript&logoColor=white) 
 ![](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js&logoColor=white)
 ![](https://img.shields.io/badge/Vue.js-blue?style=for-the-badge&logo=vue.js&logoColor=white)
-![](https://img.shields.io/badge/react-purple?style=for-the-badge&logo=react&logoColor=white)
-![](https://img.shields.io/badge/Nest.js-skyblue?style=for-the-badge&logo=nest.js&logoColor=white)
+![](https://img.shields.io/badge/React-purple?style=for-the-badge&logo=react&logoColor=white)
+![](https://img.shields.io/badge/Nest.js-skyblue?style=for-the-badge&logo=nestjs&logoColor=white)
+![](https://img.shields.io/badge/Express-gray?style=for-the-badge&logo=express&logoColor=white)
 
 ## OS & IDE
 ![](https://img.shields.io/badge/Windows-blue?style=for-the-badge&logo=windows&logoColor=white)
@@ -25,12 +26,13 @@
 ![](https://img.shields.io/badge/mysql-green?style=for-the-badge&logo=mysql&logoColor=white)
 ![](https://img.shields.io/badge/mssql-blue?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![](https://img.shields.io/badge/redis-orange?style=for-the-badge&logo=redis&logoColor=white)
+![](https://img.shields.io/badge/mongodb-skyblue?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ## Currently interested in
 ![](https://img.shields.io/badge/kotlin-orange?style=for-the-badge&logo=kotlin&logoColor=white)
 ![](https://img.shields.io/badge/k8s-blue?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![](https://img.shields.io/badge/gitops-green?style=for-the-badge&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/nextjs-purple?style=for-the-badge&logo=next.js&logoColor=white)
-![](https://img.shields.io/badge/terraform-blue?style=for-the-badge&logo=terraform&logoColor=white)
+![](https://img.shields.io/badge/terraform-skyblue?style=for-the-badge&logo=terraform&logoColor=white)
 
 
