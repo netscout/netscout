@@ -20,7 +20,7 @@
 ## OS & IDE
 ![](https://img.shields.io/badge/Windows-blue?style=for-the-badge&logo=windows&logoColor=white)
 ![](https://img.shields.io/badge/Mac-orange?style=for-the-badge&logo=apple&logoColor=white)
-![](https://img.shields.io/badge/Ubuntu(WSL2)-green?style=for-the-badge&logo=linux&logoColor=white)
+![](https://img.shields.io/badge/Ubuntu-green?style=for-the-badge&logo=linux&logoColor=white)
 ![](https://img.shields.io/badge/Visual%20Studio-purple?style=for-the-badge&logo=visualstudio&logoColor=white)
 ![](https://img.shields.io/badge/VS%20Code-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
