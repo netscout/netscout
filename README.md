@@ -34,6 +34,7 @@
 
 ## Devops
 ![](https://img.shields.io/badge/terraform-skyblue?style=for-the-badge&logo=terraform&logoColor=white)
+![](https://img.shields.io/badge/Gihub%20Actions-gray?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ## Currently interested in
 ![](https://img.shields.io/badge/kotlin-orange?style=for-the-badge&logo=kotlin&logoColor=white)
