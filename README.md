@@ -1,6 +1,10 @@
 # Back-end centric Full-stack web developer
-[![Tech Blog Badge](https://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://blog.naver.com/netscout82)](https://blog.naver.com/netscout82)	
+[![Tech Blog Badge](https://img.shields.io/badge/-Tech%20blog1-black?style=flat-square&logo=github&link=https://blog.naver.com/netscout82)](https://blog.naver.com/netscout82)
+[![Tech Blog Badge](https://img.shields.io/badge/-Tech%20blog2-black?style=flat-square&logo=github&link=https://github.com/netscout/studies)](https://github.com/netscout/studies)
 [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/user/netscout82)](https://www.youtube.com/user/netscout82)
+
+
+
 
 ## Languages & Framework
 ![](https://img.shields.io/badge/.Net-orange?style=for-the-badge&logo=.net&logoColor=white) 
