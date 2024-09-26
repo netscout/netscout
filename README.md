@@ -16,6 +16,7 @@
 ![](https://img.shields.io/badge/React-purple?style=for-the-badge&logo=react&logoColor=white)
 ![](https://img.shields.io/badge/Nest.js-skyblue?style=for-the-badge&logo=nestjs&logoColor=white)
 ![](https://img.shields.io/badge/Express-gray?style=for-the-badge&logo=express&logoColor=white)
+![](https://img.shields.io/badge/Tailwindcss-skybule?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ## Working With AI
 ![](https://img.shields.io/badge/ChatGPT-lightgreen?style=for-the-badge&logo=openai&logoColor=white)
@@ -39,9 +40,9 @@
 ## Devops
 ![](https://img.shields.io/badge/terraform-skyblue?style=for-the-badge&logo=terraform&logoColor=white)
 ![](https://img.shields.io/badge/Gihub%20Actions-gray?style=for-the-badge&logo=githubactions&logoColor=white)
+![](https://img.shields.io/badge/k8s-blue?style=for-the-badge&logo=kubernetes&logoColor=white)
+![](https://img.shields.io/badge/gitops-green?style=for-the-badge&logo=git&logoColor=white)
 
 ## Currently interested in
 ![](https://img.shields.io/badge/kotlin-orange?style=for-the-badge&logo=kotlin&logoColor=white)
-![](https://img.shields.io/badge/k8s-blue?style=for-the-badge&logo=kubernetes&logoColor=white)
-![](https://img.shields.io/badge/gitops-green?style=for-the-badge&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/nextjs-purple?style=for-the-badge&logo=next.js&logoColor=white)
