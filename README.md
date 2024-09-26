@@ -41,6 +41,8 @@
 ![](https://img.shields.io/badge/k8s-blue?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![](https://img.shields.io/badge/gitops-green?style=for-the-badge&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/helm-skyblue?style=for-the-badge&logo=helm&logoColor=white)
+![](https://img.shields.io/badge/argocd-orange?style=for-the-badge&logo=agrocd&logoColor=white)
+![](https://img.shields.io/badge/kustomize-red?style=for-the-badge&logo=kustomize&logoColor=white)
 
 ## Currently interested in
 ![](https://img.shields.io/badge/kotlin-orange?style=for-the-badge&logo=kotlin&logoColor=white)
