@@ -46,6 +46,5 @@
 ![](https://img.shields.io/badge/kustomize-red?style=for-the-badge&logo=kustomize&logoColor=white)
 
 ## Currently interested in
-![](https://img.shields.io/badge/kotlin-orange?style=for-the-badge&logo=kotlin&logoColor=white)
-![](https://img.shields.io/badge/nextjs-purple?style=for-the-badge&logo=next.js&logoColor=white)
+![](https://img.shields.io/badge/rag-orange?style=for-the-badge)
 ![](https://img.shields.io/badge/langchain-navy?style=for-the-badge&logo=langchain&logoColor=white)
