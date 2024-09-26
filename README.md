@@ -40,6 +40,7 @@
 ![](https://img.shields.io/badge/Gihub%20Actions-gray?style=for-the-badge&logo=githubactions&logoColor=white)
 ![](https://img.shields.io/badge/k8s-blue?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![](https://img.shields.io/badge/gitops-green?style=for-the-badge&logo=git&logoColor=white)
+![](https://img.shields.io/badge/helm-skyblue?style=for-the-badge&logo=helm&logoColor=white)
 
 ## Currently interested in
 ![](https://img.shields.io/badge/kotlin-orange?style=for-the-badge&logo=kotlin&logoColor=white)
