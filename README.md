@@ -29,7 +29,8 @@
 
 ## Cloud & DB
 ![](https://img.shields.io/badge/aws-orange?style=for-the-badge&logo=amazon&logoColor=white)
-![](https://img.shields.io/badge/azure-blue?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![](https://img.shields.io/badge/azure-blue?style=for-the-badge&logo=msazure&logoColor=white)
+![](https://img.shields.io/badge/ncp-lightgreen?style=for-the-badge&logo=navercloudplatform&logoColor=white)
 ![](https://img.shields.io/badge/mysql-green?style=for-the-badge&logo=mysql&logoColor=white)
 ![](https://img.shields.io/badge/mssql-blue?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![](https://img.shields.io/badge/redis-orange?style=for-the-badge&logo=redis&logoColor=white)
