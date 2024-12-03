@@ -19,6 +19,7 @@
 ## Working With AI
 ![](https://img.shields.io/badge/ChatGPT-lightgreen?style=for-the-badge&logo=openai&logoColor=white)
 ![](https://img.shields.io/badge/Copliot-gray?style=for-the-badge&logo=github&logoColor=white)
+![](https://img.shields.io/badge/CursorAI-black?style=for-the-badge&logo=cursorai&logoColor=white)
 
 ## OS & IDE
 ![](https://img.shields.io/badge/Windows-blue?style=for-the-badge&logo=windows&logoColor=white)
