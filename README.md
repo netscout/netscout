@@ -17,8 +17,8 @@
 ![](https://img.shields.io/badge/Tailwindcss-skybule?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ## Working With AI
-![](https://img.shields.io/badge/ChatGPT-lightgreen?style=for-the-badge&logo=openai&logoColor=white)
-![](https://img.shields.io/badge/Copliot-gray?style=for-the-badge&logo=github&logoColor=white)
+![](https://img.shields.io/badge/CLAUDE-orange?style=for-the-badge&logo=claude&logoColor=white)
+![](https://img.shields.io/badge/ClaudeCode-orange?style=for-the-badge&logo=claude&logoColor=white)
 ![](https://img.shields.io/badge/CursorAI-black?style=for-the-badge&logo=cursorai&logoColor=white)
 
 ## OS & IDE
