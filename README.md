@@ -47,4 +47,4 @@
 ![](https://img.shields.io/badge/kustomize-red?style=for-the-badge&logo=kustomize&logoColor=white)
 
 ## Currently interested in
-![](https://img.shields.io/badge/go-skyblue?style=for-the-badge&logo=langchain&logoColor=white)
+![](https://img.shields.io/badge/go-skyblue?style=for-the-badge&logo=go&logoColor=white)
